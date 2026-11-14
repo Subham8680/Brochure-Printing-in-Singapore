@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # TODO: replace with your real GitHub Pages URL
-Sitemap: https://YOUR-USERNAME.github.io/YOUR-REPO/sitemap.xml
+Sitemap: https://subham8680.github.io/Brochure-Printing-in-Singapore/sitemap.xml
